@@ -1,6 +1,6 @@
 # Task Management System (MERN Stack)
 
-A full-stack Task Management System built for the **MERN Stack Intern – Xplore Intellects** technical assessment. Admins can manage employees, assign and monitor tasks; employees can view and update their assigned tasks. Email notifications are sent on task assignment and on status updates.
+A full-stack Task Management System built for  Admins can manage employees, assign and monitor tasks; employees can view and update their assigned tasks. Email notifications are sent on task assignment and on status updates.
 
 ## Tech Stack
 
